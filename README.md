@@ -48,7 +48,7 @@ Start the local development server
 
 You can now access the server at http://localhost:8000
 
-**TL;DR command list**
+**command list**
 
     git clone https://github.com/rohit99336/Disyms.git
     npm install
@@ -62,4 +62,6 @@ You can now access the server at http://localhost:8000
 
     php artisan migrate
     php artisan serve
+
+
 
