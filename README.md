@@ -12,7 +12,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone https://github.com/rohit99336/Disyms.git
+    git clone https://github.com/rohit99336/Cupidknot2.0
 
 Switch to the repo folder
 
@@ -50,7 +50,7 @@ You can now access the server at http://localhost:8000
 
 **command list**
 
-    git clone https://github.com/rohit99336/Disyms.git
+    git clone https://github.com/rohit99336/Cupidknot2.0
     npm install
     composer install
     npm run dev
