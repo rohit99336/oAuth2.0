@@ -50,12 +50,13 @@ You can now access the server at http://localhost:8000
 
 **TL;DR command list**
 
-    git clone git@github.com:gothinkster/laravel-realworld-example-app.git
-    cd laravel-realworld-example-app
+    git clone https://github.com/rohit99336/Disyms.git
+    npm install
     composer install
-    cp .env.example .env
+    npm run dev
     php artisan key:generate
-    php artisan jwt:generate 
+    php artisan migrate
+    php artisan serve
     
 **Make sure you set the correct database connection information before running the migrations** [Environment variables](#environment-variables)
 
